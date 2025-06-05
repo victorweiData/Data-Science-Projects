@@ -1,5 +1,5 @@
 
-# Victor Wei's Data Science Portfolio
+# Victor Wei's UnderGrad Data Science Portfolio
 
 ## Introduction
 Hello! I'm Victor Wei, a passionate and skilled data scientist. This repository showcases a collection of my data science projects, demonstrating my expertise in areas like machine learning, statistical analysis, and data visualization. These projects reflect my ability to derive meaningful insights from complex datasets and my proficiency in using various data science tools and technologies.
